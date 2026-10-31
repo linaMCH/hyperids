@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+optuna
+matplotlib
+seaborn
+jupyter
+
+# Optionnel, si un algorithme génétique est retenu :
+# deap

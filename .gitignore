@@ -1,0 +1,22 @@
+# Données (non versionnées, voir README)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers lourds ou temporaires
+*.pkl
+*.joblib
+*.parquet
+*.csv.gz
+optuna_*.db
+
+# Système
+.DS_Store
+Thumbs.db

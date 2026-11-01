@@ -2,7 +2,7 @@
 
 Projet du module Data Mining, 4e année Génie Logiciel, Université de Béjaïa.
 
-Auteures : [Lina Maouche], [Nour El Imene Sahi]
+Auteures : Lina Maouche, Nour El Imene Sahi
 
 ## Objectif
 
@@ -17,6 +17,12 @@ Dataset : UNSW-NB15 (Moustafa et Slay, 2015).
 Version Kaggle utilisée : [nom exact et lien de la page].
 Les données ne sont pas versionnées dans ce dépôt : il faut les ajouter
 comme entrée du notebook Kaggle.
+
+Note : les noms des fichiers `UNSW_NB15_training-set.csv` et `UNSW_NB15_testing-set.csv`
+sont inversés par rapport à la description des auteurs. Le premier contient 82 332
+lignes (partition de test officielle), le second 175 341 lignes (partition
+d'entraînement officielle). Nous utilisons la partition selon son contenu, pas
+selon son nom.
 
 ## Structure du dépôt
 
@@ -49,7 +55,7 @@ Moustafa, N. et Slay, J. (2015). *UNSW-NB15: a comprehensive data set for networ
 
 - Créé par le Cyber Range Lab de l'Australian Centre for Cyber Security (ACCS), UNSW Canberra.
 - Page d'origine : https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
-- Version Kaggle utilisée : [nom exact du dataset], publiée par [auteur], [lien de la page].
+- Version Kaggle utilisée : dataset unsw-nb15, publiée par mrwellsdavid, [\[lien de la page\]](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15).
 - Fichiers utilisés : `UNSW_NB15_training-set.csv` et `UNSW_NB15_testing-set.csv` (partition fournie par les auteurs), ainsi que `UNSW-NB15_features.csv` pour la description des colonnes.
 
 ### Références à citer obligatoirement

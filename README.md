@@ -43,4 +43,31 @@ comme entrée du notebook Kaggle.
 
 ## Sources
 
-[À compléter au fil du projet : datasets, articles, bibliothèques.]
+### Jeu de données
+
+Moustafa, N. et Slay, J. (2015). *UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)*. Military Communications and Information Systems Conference (MilCIS), IEEE.
+
+- Créé par le Cyber Range Lab de l'Australian Centre for Cyber Security (ACCS), UNSW Canberra.
+- Page d'origine : https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
+- Version Kaggle utilisée : [nom exact du dataset], publiée par [auteur], [lien de la page].
+- Fichiers utilisés : `UNSW_NB15_training-set.csv` et `UNSW_NB15_testing-set.csv` (partition fournie par les auteurs), ainsi que `UNSW-NB15_features.csv` pour la description des colonnes.
+
+### Références à citer obligatoirement
+
+Les auteurs du dataset demandent de citer ces deux articles pour tout usage du jeu de données :
+
+1. Moustafa, N. et Slay, J. (2015). *UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)*. Military Communications and Information Systems Conference (MilCIS), IEEE.
+2. Moustafa, N. et Slay, J. (2016). *The evaluation of Network Anomaly Detection Systems: Statistical analysis of the UNSW-NB15 dataset and the comparison with the KDD99 dataset*. Information Security Journal: A Global Perspective.
+
+### Conditions d'utilisation
+
+Selon la description publiée par les auteurs, l'utilisation du jeu de données est libre pour la recherche académique. Tout usage commercial doit être convenu avec les auteurs (Nour Moustafa et Jill Slay). Ce projet est un travail universitaire.
+
+### Bibliothèques
+
+scikit-learn, XGBoost, LightGBM, Optuna, pandas, NumPy, SciPy, Matplotlib, Seaborn.
+
+### À compléter au fil du projet
+
+Articles, documentations et autres sources consultés.
+

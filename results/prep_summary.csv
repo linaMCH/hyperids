@@ -1,0 +1,4 @@
+ensemble,lignes,part_attaques,empreinte
+train,80648,0.488,fb8d73b1cdba
+val,20163,0.488,f5db41df66c1
+test,52738,0.36,0f96e3a31bcc

@@ -1,0 +1,2 @@
+date,auteure,modele,methode,n_essais,graine,hyperparametres,rappel,precision,f1,pr_auc,mcc,f1_train,temps_entrainement_s
+2026-11-06,Imene,arbre_decision,defaut,NA,42,défaut,0.909969481180061,0.909414396095974,0.9096918539611513,0.871431624127963,0.8237288017006303,1.0,2.7

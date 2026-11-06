@@ -1,0 +1,11 @@
+### 06/11/2026 : Configuration et vérification des données (notebook Kaggle de test)
+- **Objectif de la séance :** Configurer Git et Kaggle, cloner le dépôt, vérifier que la préparation de Lina est reproduite à l'identique sur mon compte.
+- **Observé (avec chiffres) :**
+  - Les trois empreintes correspondent (cellule 2, verify) : train fb8d73b1cdba, val f5db41df66c1, test 0f96e3a31bcc, puis True.
+  - Tailles (cellule 3) : entraînement 80 648 lignes, validation 20 163, test 52 738 ; 58 caractéristiques.
+  - Bibliothèques importées sans installation (cellule 4) : pandas 2.3.3, scikit-learn 1.6.1, xgboost 3.4.1, lightgbm 4.6.0, optuna 5.0.0.
+- **Retenu / décidé, et pourquoi :** La préparation est reproductible sur mon compte (empreintes identiques) : je peux démarrer la baseline. Les versions des bibliothèques sont à citer dans le rapport (reproductibilité).
+- **Alternatives écartées :** Aucune (procédure du guide suivie).
+- **Problèmes rencontrés et solution :** Aucun
+- **À vérifier / questions :** Relecture de 01_exploration, 02_preparation et src/data.py à faire ; décisions de la section 3 à valider avec Lina. 
+- **Pour le rapport (section concernée) :** Méthodes (reproductibilité : environnement et versions).

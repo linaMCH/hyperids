@@ -1,0 +1,2 @@
+date,auteure,modele,methode,n_essais,graine,hyperparametres,rappel,precision,f1,pr_auc,mcc,f1_train,temps_entrainement_s
+2026-11-06,Imene,regression_logistique,defaut,NA,42,défaut sauf max_iter=1000 ; normalisation dans le pipeline,0.9758901322482197,0.8383291094992572,0.9018944201570065,0.9576433861382824,0.8039693698038534,0.9033869352653591,4.29

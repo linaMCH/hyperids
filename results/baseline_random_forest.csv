@@ -1,0 +1,2 @@
+date,auteure,modele,methode,n_essais,graine,hyperparametres,rappel,precision,f1,pr_auc,mcc,f1_train,temps_entrainement_s
+2026-11-06,Imene,random_forest,defaut,NA,42,défaut,0.9488301119023398,0.9137846575879298,0.9309776912711484,0.9823517487921318,0.8634641933197508,1.0,8.52

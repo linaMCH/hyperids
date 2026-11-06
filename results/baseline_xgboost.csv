@@ -1,0 +1,2 @@
+date,auteure,modele,methode,n_essais,graine,hyperparametres,rappel,precision,f1,pr_auc,mcc,f1_train,temps_entrainement_s
+2026-11-06,Imene,xgboost,defaut,NA,42,défaut,0.9447609359104782,0.9172345679012346,0.9307942871460787,0.9839321149764884,0.8634007968310948,0.954565449632376,1.29

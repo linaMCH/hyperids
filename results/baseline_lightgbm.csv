@@ -1,0 +1,2 @@
+date,auteure,modele,methode,n_essais,graine,hyperparametres,rappel,precision,f1,pr_auc,mcc,f1_train,temps_entrainement_s
+2026-11-06,Imene,lightgbm,defaut,NA,42,défaut,0.9472024415055951,0.9126641834934327,0.9296126198083067,0.9832403427725164,0.8607673924905653,0.9400464639904075,1.25
